@@ -10,6 +10,7 @@ Every project here follows one template, so a reader can see in a minute what wa
 
 | Project | Question | Methods | Status |
 |---|---|---|---|
+| [Diabetes and the other leading causes of death (IST 719 poster)](ist719-diabetes-visualization/) | Is diabetes linked to other leading causes of death across US states? | R: dplyr, ggplot2, patchwork; Pearson correlation | Done: r = 0.56 with stroke on age-adjusted rates |
 | [Impact of diabetes on other illnesses](https://github.com/gmatheya/PROJECT-R) | How does diabetes relate to other conditions? | R | Existing repo, write-up to be added |
 | Credentials to Careers (capstone) | Skill underutilization among internationally educated immigrants in New York State | To be added | In progress, Fall 2026 |
 | PMO Maturity Assessment | How mature is an organization's PMO? | Scoring model, web tool | [Live tool](https://www.hopeforafrika.com/pmo/), case study to be added |
